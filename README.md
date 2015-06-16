@@ -1,0 +1,2 @@
+# conucogw
+Conuco gateway firmware

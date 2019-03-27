@@ -1,2 +1,4 @@
 # conucogw
-Conuco gateway firmware
+OBSOLETE PROJECT.
+View https://github.com/ramonlh/conucoplus
+
